@@ -41,7 +41,7 @@ I'm an aspiring full-stack web developer with a strong enthusiasm for learning a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/sagrsuri/)
 [![Blogger](https://img.shields.io/badge/Blogger--red?style=social&logo=blogger)](https://sagarsurics.blogspot.com)
 [![YouTube](https://img.shields.io/badge/YouTube--red?style=social&logo=youtube)](https://www.youtube.com/@sagrsuri)
-[![Twitter](https://img.shields.io/badge/Twitter--blue?style=social&logo=X)](https://twitter.com/sagrsuri)
+[![Twitter](https://img.shields.io/badge/Twitter--blue?style=social&logo=X)](https://twitter.com/sagarsuri_in)
 [![Instagram](https://img.shields.io/badge/Instagram--red?style=social&logo=instagram)](https://www.instagram.com/sagarsuri.in)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp--red?style=social&logo=whatsapp)](https://wa.me/918446262100)
 
