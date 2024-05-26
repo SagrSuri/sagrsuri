@@ -51,4 +51,4 @@ I'm an aspiring full-stack web developer with a strong enthusiasm for learning a
 <br><br><br>
 Let's connect and learn together in the exciting world of full-stack web development! <br>
 <br>
-[![Github Page](https://img.shields.io/badge/Website--red?style=social&logo=github)](https://sagrsuri.github.io/sagarsuri.in/)
+[![Github Page](https://img.shields.io/badge/Website--red?style=social&logo=github)](https://sagarsuri.in/)
